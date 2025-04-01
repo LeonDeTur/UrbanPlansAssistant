@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "UrbanPlansAssistant"
+version = "0.1.0"
+description = "Service for question-answer back-end systems for Urban Researches"
+authors = ["LeonDeTur <100690100+LeonDeTur@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+markitdown = "^0.1.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.2.0"
+pylint = "^3.0.3"
+isort = "^5.13.2"
+jupyter = "^1.0.0"
+pytest = "^8.3.5"
+pytest-cov = "^6.0.0"
+folium = "^0.19.5"
+matplotlib = "^3.10.1"
+mapclassify = "^2.8.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
