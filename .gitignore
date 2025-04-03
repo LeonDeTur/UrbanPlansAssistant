@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PrivateKies
+DECFILE
+*.crt
+
+# Docs
+*.pdf
+
+#Images
+*.png
+*.jpg
