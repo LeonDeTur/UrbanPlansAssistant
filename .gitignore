@@ -179,6 +179,8 @@ DECFILE
 
 # Docs
 *.pdf
+*.doc
+*.docx
 
 #Images
 *.png
