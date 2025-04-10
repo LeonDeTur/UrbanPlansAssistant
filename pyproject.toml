@@ -10,6 +10,8 @@ python = "^3.11"
 markitdown = {extras = ["docx"], version = "^0.1.1"}
 pypandoc-binary = "^1.15"
 python-docx = "^1.1.2"
+tqdm = "^4.67.1"
+geopandas = "^1.0.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.2.0"
