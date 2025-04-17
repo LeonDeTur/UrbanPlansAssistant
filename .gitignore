@@ -185,3 +185,6 @@ DECFILE
 #Images
 *.png
 *.jpg
+
+#Tabular data
+*.csv
