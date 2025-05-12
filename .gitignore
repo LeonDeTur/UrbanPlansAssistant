@@ -188,3 +188,6 @@ DECFILE
 
 #Tabular data
 *.csv
+
+#nltk
+/punkt
